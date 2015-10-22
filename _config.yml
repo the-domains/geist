@@ -1,0 +1,23 @@
+name: Geist
+favicon: null
+layout_spectrum: 0.271981940837577
+typography_spectrum: 0.75660764798522
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5974888326600194
+  lightness: 0.3618928275536746
+  saturation: 0.7363472417928278
+  rhythmicContrast: 0.8974123953375965
+purpose: []
